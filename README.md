@@ -1,5 +1,5 @@
 ## Hi there, I'm [Gaurav](https://fedgaurav.github.io/gaurav.port/)!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-![visitors](https://visitor-badge.glitch.me/badge?page_id=fedgaurav)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=fedgaurav.visitor-badge&left_color=red&right_color=green)
 
 - 🎓 I'm currently trying to learn Back-end Development.
 - 🌱 I’m learning from open source projects, youtube and my individual experience📕
